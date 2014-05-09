@@ -1,3 +1,10 @@
+## Solution
+
+There are four pieces of RCode Plot1.R - Plot4.R
+Please copy the four pieces of Rcode into the current working directory of R Session
+Save a .txt version of the data file in the same folder. The code assumes that data file is in the work folder
+Run the code in an R session and the PNG files are created in work folder.
+
 ## Introduction
 
 This assignment uses data from
